@@ -1,4 +1,4 @@
-# binary chaos/order entropic collapse visualization (no deadass) / 
+# Binary Chaos/Order Entropic Collapse Visualization (no deadass) 
 
 
 Why'd I build this?
