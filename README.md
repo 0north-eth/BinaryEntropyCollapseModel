@@ -1,4 +1,4 @@
-# Binary Chaos/Order Entropic Collapse Visualization (no deadass) 
+# A systems-thinking art piece about entropy, order, and collapse. 
 
 
 Why'd I build this?
